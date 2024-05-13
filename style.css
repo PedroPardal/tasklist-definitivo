@@ -38,9 +38,13 @@ body {
   }
   
   li {
-    list-style-type: none;
-    margin-bottom: 5px;
-    animation: fadeIn 0.5s ease;
+    li {
+      list-style-type: none;
+      margin-bottom: 10px; /* Aumentei o espaçamento entre as tarefas */
+      padding-bottom: 10px; /* Adicionei preenchimento na parte inferior */
+      animation: fadeIn 0.5s ease;
+    }
+    
   }
   
   li span {
