@@ -2,6 +2,7 @@ body {
   background: url('https://i.stack.imgur.com/jGlzr.png') no-repeat 0 0 scroll;
   background-color:#0C0C0C;
   background-size: cover;
+   font-family: Arial, Helvetica, sans-serif;
   }
   
   .container {
