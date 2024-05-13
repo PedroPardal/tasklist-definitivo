@@ -7,11 +7,11 @@ body {
   
   .container {
     display: flex-box;
-    background-color:#dfd3c3; ;
+    background-color:; ;
     max-width: 500px;
     margin: 0 auto;
     padding: 20px;
-    border: 1px solid #596e79;
+    border: 1px solid ;
     border-radius: 15px;
     animation:bounceInRight;
     animation-duration: 1s;
